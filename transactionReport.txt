@@ -1,0 +1,19 @@
+Game: 100A1
+Initial Balance: 6550
+	Cash: 	0
+	$100 chips: 	50
+	$25 chips: 	50
+	$5 chips: 	50
+	$1 chips: 	50
+
+
+Ending Balance: 6530
+	Cash: 	20
+	$100 chips: 	50
+	$25 chips: 	50
+	$5 chips: 	46
+	$1 chips: 	50
+
+
+
+
